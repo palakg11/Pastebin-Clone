@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+}
+.login{
+	background-color:black;
+	margin-top: 1.5rem;
+	padding: 10px;
+	padding-left: 50%;
+	width: 100%;
+}
+.loginform span{
+	color: white;
+	font-weight: bold;
+}
+.signup{
+	width: 25%;
+	display: inline-block;
+	margin-left: 70px;
+}
+.publicpastes{
+	width: 65%;
+	float: left;
+	display: inline-block;
+	margin-left: 30px;
+}
+.postarea{
+	margin-top: 20px;
+}
